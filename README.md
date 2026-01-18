@@ -16,13 +16,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Solution Screenshot](./images/screenshot.png) 
+![Solution Screenshot](solution.JPG) 
 *(Note: Replace this path with your actual screenshot path once you take it)*
 
 ### Links
 
-- Solution URL: [Add your GitHub solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add your GitHub Pages or Netlify live URL here](https://your-live-site-url.com)
+- Solution URL: [Add your GitHub solution URL here](https://github.com/AbdoHalem/Frontend_Mentor_QR_code_component_solution)
+- Live Site URL: [Add your GitHub Pages or Netlify live URL here](https://abdohalem.github.io/Frontend_Mentor_QR_code_component_solution/)
 
 ## My process
 
